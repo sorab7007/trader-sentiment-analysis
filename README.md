@@ -1,8 +1,5 @@
-# trader-sentiment-analysis
+# Trader-sentiment-analysis
 Trader Performance vs Market Sentiment (Fear vs Greed) Analysis using Hyperliquid data
-# Trader Behavior vs Market Sentiment Analysis
-Round-0 Assignment – Data Science / Analytics Intern (Primetrade.ai)
-
 ---
 
 ## Objective
@@ -19,7 +16,7 @@ This analysis focuses on:
 ## Files in Repository
 
 - **Trade Analysis.ipynb** → Main analysis notebook
-- **requirements.txt** → Required Python libraries
+- **requirements.txt** → Required Python libraries , Data.csv Files
 - **README.md** → Project documentation
 
 ---
