@@ -5,3 +5,9 @@
 https://drive.google.com/file/d/1hIlzxj4JiiAaxPfdXL2Rgy-4Ve2MxjwU/view?usp=sharing
 2. Historical Trader Data (Hyperliquid)
 https://drive.google.com/file/d/1XG8ARQePz8MF2FUaXB63Zirgi03J044K/view?usp=sharing
+
+## Required:
+pandas
+numpy
+matplotlib.pyplot
+seaborn
